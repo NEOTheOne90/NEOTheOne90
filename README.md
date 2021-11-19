@@ -38,6 +38,6 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90)](https://velog.io/@neotheone90)
   
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)
-   </div>
-
+  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>
+  
+ </div>
