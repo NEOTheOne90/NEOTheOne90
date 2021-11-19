@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🚀 Cool Developer 🚀</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> The body can't live without the mind </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -27,9 +27,12 @@
 
 <h3 align="center"> 😎 velog 😎 </h3>
 
-<div align="center" style="text-align:center">
+
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEOTheOne90&show_icons=true&theme=vue-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEOTheOne90&layout=compact&theme=tokyonight)
+
+ <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90)
   
