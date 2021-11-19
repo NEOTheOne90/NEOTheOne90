@@ -38,6 +38,8 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90)](https://velog.io/@neotheone90)
   
-  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"/></a>
   
+  [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNEOTheOne90&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/NEOTheOne90?style=social)
+
  </div>
