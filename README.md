@@ -33,6 +33,8 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neotheone90&show_icons=true&theme=vue-dark)
   
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90) 
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://velog.io/@neotheone90)
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90)](https://velog.io/@neotheone90)
