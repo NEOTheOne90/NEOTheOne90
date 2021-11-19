@@ -27,16 +27,17 @@
 
 <h3 align="center"> 😎 velog 😎 </h3>
 
-
+<div align="center" style="text-align:center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEOTheOne90&show_icons=true&theme=vue-dark)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEOTheOne90&layout=compact&theme=tokyonight)
-
 
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90)
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://github.com/NEOTheOne90/velog-readme-stats)
   
-</div>
+   </div>
+
   
