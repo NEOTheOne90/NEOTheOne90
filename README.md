@@ -29,9 +29,10 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEOTheOne90&show_icons=true&theme=vue-dark)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90)](https://github.com/NEOTheOne90/velog-readme-stats) <br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90)
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://github.com/NEOTheOne90/velog-readme-stats)
   
 </div>
