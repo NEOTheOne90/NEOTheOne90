@@ -35,7 +35,7 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://github.com/NEOTheOne90/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://github.com/neotheone90/velog-readme-stats)
   
    </div>
 
