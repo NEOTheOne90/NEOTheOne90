@@ -27,18 +27,17 @@
 
 <h3 align="center"> 😎 velog 😎 </h3>
 
+
 <div align="center" style="text-align:center">
    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neotheone90&layout=compact&theme=tokyonight)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neotheone90&show_icons=true&theme=vue-dark)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=neotheone90)](https://velog.io/@neotheone90) 
-  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://velog.io/@neotheone90)
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90)](https://velog.io/@neotheone90)
   
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)
    </div>
 
-  
