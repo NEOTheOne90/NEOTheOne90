@@ -32,6 +32,9 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neotheone90&show_icons=true&theme=vue-dark)
   
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changjoja0)](https://solved.ac/changjoja0)
+
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=neotheone90&tag=js)](https://velog.io/@neotheone90)
   
   [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNEOTheOne90&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
