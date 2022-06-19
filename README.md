@@ -28,7 +28,7 @@
    <div align="center" style="text-align:center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neotheone90&layout=compact&theme=tokyonight)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changjoja0)](https://solved.ac/changjoja0)
+  
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neotheone90&show_icons=true&theme=vue-dark)
   
